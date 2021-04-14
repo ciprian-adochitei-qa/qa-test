@@ -1,0 +1,10 @@
+- Definirea clasei pentru home page (arnia.com)
+- Definirea elementelor pe care le contine aceasta pagina (cu ajutorul atributelor, ideal ar fi sa avem id-uri unice dar daca nu este posibil ne vom folosi de alte atribute unice sau path-uri catre acele elemente. Cateva exemple: name, class, XPath, CSS. Personal prefer sa "stresez/conving" echipa de dezvoltare sa adauge id-uri sau nume unice, dar daca nu se poate urmatoarea varianta preferata este XPath-ul)
+- Definirea metodelor care pot fi aplicate elementelor
+
+Exemple (am scris doar cateva pentru ca sunt foarte multe elemente):
+Butonul "Join us" gasit dupa text sau XPath si metoda clickJoinUs
+Campurile "Name", "Email", "Phone", "Message" gasite dupa atributul name de data asta si metoda de completare a campurilor
+Checkbox-ul "I'm not a robot" gasit dupa id (lucky me) si metoda de bifare a casutei
+Butonul "send" gasit dupa class sau XPath si metoda clickSend
+
