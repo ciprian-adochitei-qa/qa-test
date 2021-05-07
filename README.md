@@ -16,7 +16,7 @@ Just a repository for testing purposes
   *(This can be done in any program language you're familiar with or even pseudocode. It isn't meant to work just prove the concept)*
 * Commit and push your work to the git repository and create a pull-request that will be assigned to ciprian-adochitei-qa
 
-**STRETCH GOAL**
+* STRETCH GOAL
   * Implement the mock test files into the Serenity project you initialized.
 
 * Delivery time is 4h max.
